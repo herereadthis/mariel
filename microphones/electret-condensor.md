@@ -30,6 +30,13 @@
   * alternatives: TL082 or TL071
 * This circuit can be operated by a 9-12V battery
 
+## how to make condenser microphone pre-amplifier
+* [easyandworkproject.xyz](https://www.easyandworkproject.xyz/2016/09/how-to-make-condenser-microphone-pre.html)
+  ![electret microphone schematic diagram](https://1.bp.blogspot.com/-MMS2JNuKmm0/WwBGejQn3lI/AAAAAAAACJ0/N04fmvzKlbo2o9okh8Sx7-horDSpwdgTQCLcBGAs/s1600/electret%2Bmicrophone%2Bcircuit%2Bdiagram.JPG)
+* Uses NE5534 IC [TI Datasheet](https://www.ti.com/lit/ds/slos070d/slos070d.pdf)
+* operating voltage of this circuit is 5V
+* YouTube: [Electret Microphone preamplifier wiring diagram and test](https://www.youtube.com/watch?v=6UiUei8xzD0)
+
 ## Microphone Preamplifier Circuit Using TL071 Op-Amp
 * [circuits-diy.com](https://circuits-diy.com/microphone-preamplifier-circuit-using-tl071-op-amp/)
   ![Microphone-Preamplifier-Circuit](https://user-images.githubusercontent.com/638189/98065883-7de85980-1e23-11eb-9aa2-a8443c3eb407.png)
